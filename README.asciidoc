@@ -1,0 +1,25 @@
+# Chumbok Exception Handling Common
+
+Provides base exception handler advice and handles exception occurs inside filters.
+
+
+## How to use
+
+Add following dependency in your pom.xml
+```
+<dependency>
+    <groupId>com.chumbok.exception</groupId>
+    <artifactId>chumbok-exception-handling-common</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+Add add repository:
+```
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
