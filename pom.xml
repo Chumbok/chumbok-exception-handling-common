@@ -9,9 +9,9 @@
         <version>3.0.0</version>
     </parent>
 
-    <groupId>com.chumbok.exception</groupId>
+    <groupId>com.chumbok</groupId>
     <artifactId>chumbok-exception-handling-common</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Chumbok Exception Handling Common</name>
