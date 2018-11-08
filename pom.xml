@@ -11,11 +11,11 @@
 
     <groupId>com.chumbok.exception</groupId>
     <artifactId>chumbok-exception-handling-common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>Chumbok Spring Boot Starter Data JPA Multitenancy</name>
-    <description>Provides auto populate multitenancy fields feature.</description>
+    <name>Chumbok Exception Handling Common</name>
+    <description>Provides base exception handler advice and handles exception occurs inside filters.</description>
 
     <scm>
         <connection>scm:git:https://github.com/ChumbokIT/${project.artifactId}.git</connection>
